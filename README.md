@@ -1,4 +1,4 @@
-# flowstorm-clietn-notes
+# flowstorm-client-notes
 
 ## usage
 
@@ -40,9 +40,5 @@ I'll see if I can remember that for next time.:
 logs are written to ./logs/<CLIENT-SESSION-UUID>-[client|debug|flowstorm].log
 
 
-## reference
-
-### JavaScript Modules
-- https://masteringjs.io/tutorials/node/import
 
 
